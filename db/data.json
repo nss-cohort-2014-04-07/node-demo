@@ -1,0 +1,10 @@
+{"name":"fido", "age":3, "gender":"male", "breed":"lab", "color":"golden"}
+{"name":"max", "age":3, "gender":"male", "breed":"husky", "color":"red"}
+{"name":"lance", "age":4, "gender":"female", "breed":"lab", "color":"golden"}
+{"name":"bilbo", "age":4, "gender":"female", "breed":"husky", "color":"yellow"}
+{"name":"gertrude", "age":4, "gender":"male", "breed":"lab", "color":"orange"}
+{"name":"sam", "age":4, "gender":"male", "breed":"shepard", "color":"golden"}
+{"name":"zeus", "age":5, "gender":"female", "breed":"lab", "color":"orange"}
+{"name":"yonkers", "age":5, "gender":"female", "breed":"shepard", "color":"green"}
+{"name":"whiskey", "age":5, "gender":"male", "breed":"wolf", "color":"yellow"}
+{"name":"tsar", "age":5, "gender":"male", "breed":"wolf", "color":"green"}

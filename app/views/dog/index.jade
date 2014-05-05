@@ -1,0 +1,18 @@
+extends ../shared/template
+
+block content
+  h1 Dog Index Page
+
+  a(href='/dogs?gender=female') Female
+  a(href='/dogs?gender=male') Male
+  a(href='/dogs?breed=lab') Lab
+
+  ul
+    each dog in records
+      li
+        ul
+          li=dog.name
+          li=dog.age
+          li=dog.gender
+          li=dog.color
+          li=dog.breed
